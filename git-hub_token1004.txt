@@ -1,0 +1,12 @@
+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
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://tylercho701: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@github.com/tylercho701/test1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
